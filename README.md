@@ -1,2 +1,1 @@
-# get-start-web
-starting steps for learning web developers  
+## starting steps for learning web developers  
